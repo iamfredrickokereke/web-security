@@ -1,2 +1,2 @@
 # web-security
-A follow up for standford
+A follow up notes repo for standford
